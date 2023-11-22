@@ -1,5 +1,5 @@
-let number1
-let number2
+let number1 = '1'
+let number2= '2'
 let fun
 let resultado
 
