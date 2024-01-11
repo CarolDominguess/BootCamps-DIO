@@ -1,6 +1,6 @@
 
 let nome = "José";
-let xp = 10000; 
+let xp = 100000; 
 
 let nivel;
 if (xp < 1000) {
